@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "SpeechPacer Watch App"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "SpeechPacer entry ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SpeechPacer"
+    },
+    {
+      "name": "reason_microphone",
+      "value": "To transcribe your speech and calculate pacing in real-time."
+    },
+    {
+      "name": "reason_internet",
+      "value": "To access cloud ASR services for high-quality transcription."
+    },
+    {
+      "name": "reason_vibrate",
+      "value": "To provide haptic feedback when you are talking too fast or too slow."
+    }
+  ]
+}
